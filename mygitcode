@@ -1,0 +1,12 @@
+#include <iostream> // library header
+#include "helloWorld.h" //header in project
+#include "../helloworld/headers/helloworld.h" //path to header in project
+#include </path/to/custom/header/headerFile.h>
+using namespace std;
+
+int main()
+{
+   cout << "Hello World" << endl; 
+   cout << "What is this that I am doing" << endl:
+   return 0;
+}
