@@ -10,3 +10,7 @@ int main()
    cout << "What is this that I am doing" << endl:
    return 0;
 }
+#I am trying to add to this file a new comment.
+#This is to actually test how git work.
+#We will see.
+
